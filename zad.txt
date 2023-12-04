@@ -1,0 +1,7 @@
+Zad do chałpy
+Utworz relacyjny model bazy danych o nazwie: sklep_rowerowy
+2 tabele : klienci , towary
+min. 5 klientow , kazdy klient ma min 2 zamowienia
+
+wykonaj w php połącznie za pomoca do db za pomoca konstruktora new mysqli()
+rekordy wyświetl w przygladarce intel.
